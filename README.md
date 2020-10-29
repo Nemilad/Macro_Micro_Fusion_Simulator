@@ -23,6 +23,8 @@ List of available architectures for simulation:
 - Broadwell
 - Skylake
 
+**23.05.2020** [Fusion_Simulator-v1.0](https://github.com/Nemilad/Macro_Micro_Fusion_Simulator/releases/download/Main/Fusion_Simulator.rar)
+
 # Симулятор макро- и микро- слияния в ядре процессора
 `[Другой симулятор блоков ЦП находится в разработке]`
 
@@ -47,3 +49,5 @@ List of available architectures for simulation:
 - Haswell
 - Broadwell
 - Skylake
+
+**23.05.2020** [Fusion_Simulator-v1.0](https://github.com/Nemilad/Macro_Micro_Fusion_Simulator/releases/download/Main/Fusion_Simulator.rar)
